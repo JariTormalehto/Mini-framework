@@ -2,9 +2,6 @@
 
  This framework allows you to create html tags in javascript without createElement prefix.
 
-## utils.js
-
- This is used to check if input is a valid HTML element.
 
 ## framework.js
 
